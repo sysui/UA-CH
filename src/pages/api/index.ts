@@ -15,7 +15,7 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
   res.setHeader("Critical-CH", getHighEntropyValues);
 
   // @ts-ignore ua-parser-js@2.0のd.tsがないからエラーを無視
-  ua = UAParser(req.headers).withClientHints() as any;
+  ua = UAParser(req.headers).withClientHints();
 
   // END since@2.0
 
