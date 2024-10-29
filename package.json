@@ -14,7 +14,7 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@types/node": "20.17.2",
+    "@types/node": "20.17.3",
     "@types/react": "18.3.12",
     "@types/react-dom": "18.3.1",
     "@types/ua-parser-js": "0.7.39",
@@ -22,6 +22,6 @@
     "eslint-config-next": "14.2.16",
     "prettier": "3.3.3",
     "typescript": "5.6.3",
-    "ua-parser-js": "2.0.0-beta.3"
+    "ua-parser-js": "2.0.0-rc.1"
   }
 }
