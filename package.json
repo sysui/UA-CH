@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.2.2",
+    "next": "15.2.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -19,7 +19,7 @@
     "@types/react-dom": "19.0.4",
     "@types/ua-parser-js": "0.7.39",
     "eslint": "9.22.0",
-    "eslint-config-next": "15.2.2",
+    "eslint-config-next": "15.2.3",
     "prettier": "3.5.3",
     "typescript": "5.8.2",
     "ua-parser-js": "2.0.3"
