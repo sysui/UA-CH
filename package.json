@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/node": "20.17.30",
     "@types/react": "19.1.0",
-    "@types/react-dom": "19.1.0",
+    "@types/react-dom": "19.1.1",
     "@types/ua-parser-js": "0.7.39",
     "eslint": "9.23.0",
     "eslint-config-next": "15.2.4",
