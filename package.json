@@ -22,11 +22,11 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "3.3.1",
-    "@types/node": "22.15.28",
+    "@types/node": "22.15.29",
     "@types/react": "19.1.6",
     "@types/react-dom": "19.1.5",
     "@types/ua-parser-js": "0.7.39",
-    "eslint": "9.27.0",
+    "eslint": "9.28.0",
     "eslint-config-next": "15.3.3",
     "lint-staged": "16.1.0",
     "prettier": "3.5.3",
