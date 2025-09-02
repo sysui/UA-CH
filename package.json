@@ -28,7 +28,7 @@
     "@types/ua-parser-js": "0.7.39",
     "eslint": "9.34.0",
     "eslint-config-next": "15.5.2",
-    "lint-staged": "16.1.5",
+    "lint-staged": "16.1.6",
     "prettier": "3.6.2",
     "simple-git-hooks": "2.13.1",
     "typescript": "5.9.2",
