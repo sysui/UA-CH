@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "dev": "next dev --turbopack",
-    "lint": "next lint",
+    "dev": "next dev",
+    "lint": "eslint",
     "prepare": "npx simple-git-hooks",
     "start": "next start"
   },
@@ -16,18 +16,17 @@
     "*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
-    "next": "15.5.5",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "next": "16.0.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "3.3.1",
     "@types/node": "22.18.10",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
     "@types/ua-parser-js": "0.7.39",
     "eslint": "9.37.0",
-    "eslint-config-next": "15.5.5",
+    "eslint-config-next": "16.0.0",
     "lint-staged": "16.2.4",
     "prettier": "3.6.2",
     "simple-git-hooks": "2.13.1",
