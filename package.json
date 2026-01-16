@@ -31,6 +31,6 @@
     "prettier": "3.7.4",
     "simple-git-hooks": "2.13.1",
     "typescript": "5.9.3",
-    "ua-parser-js": "2.0.7"
+    "ua-parser-js": "2.0.8"
   }
 }
