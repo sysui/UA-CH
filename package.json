@@ -30,7 +30,7 @@
     "lint-staged": "17.1.0",
     "prettier": "3.9.5",
     "simple-git-hooks": "2.13.1",
-    "typescript": "6.0.3",
+    "typescript": "7.0.2",
     "ua-parser-js": "2.0.10"
   }
 }
