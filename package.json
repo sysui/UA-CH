@@ -28,7 +28,7 @@
     "eslint": "10.14.0",
     "eslint-config-next": "16.4.6",
     "lint-staged": "17.6.0",
-    "prettier": "3.9.10",
+    "prettier": "3.10.0",
     "simple-git-hooks": "2.14.0",
     "typescript": "6.0.3",
     "ua-parser-js": "2.0.10"
